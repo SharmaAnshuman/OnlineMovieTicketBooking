@@ -1,0 +1,12 @@
+SMAP
+upload_jsp.java
+JSP
+*S JSP
+*F
++ 0 upload.jsp
+admin/upload.jsp
+*L
+1,4:45
+5,11:50
+15:61,2
+*E

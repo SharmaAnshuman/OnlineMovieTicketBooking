@@ -1,0 +1,22 @@
+SMAP
+addmovieimg_jsp.java
+JSP
+*S JSP
+*F
++ 0 addmovieimg.jsp
+admin/addmovieimg.jsp
++ 1 Anav.jsp
+admin/../design/Anav.jsp
++ 2 Afooter.jsp
+admin/../design/Afooter.jsp
+*L
+1,15:52
+1#1,33:67
+15#0,20:100
+35,29:121
+63,21:150
+85,28:173
+112,14:201
+1#2,11:215
+125#0,7:226
+*E
